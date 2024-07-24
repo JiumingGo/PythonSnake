@@ -1,5 +1,4 @@
-# Snake Game Project
-#### Video Demo:  [Insert URL here]
+# Snake 
 #### Description:
 
 This project is a classic implementation of the Snake game using Python and the Pygame library. The game involves controlling a snake to eat food that appears randomly on the screen. As the snake eats the food, it grows longer, and the player's score increases. The objective is to avoid colliding with the snake's own body, as doing so results in a game over.
